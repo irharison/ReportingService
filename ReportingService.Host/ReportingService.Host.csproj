@@ -62,9 +62,13 @@
         <Compile Include="Service.cs" />
     </ItemGroup>
     <ItemGroup>
-      <None Include="log4net.config" />
+      <None Include="log4net.config">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </None>
       <None Include="packages.config" />
-      <None Include="Properties\App.config" />
+      <None Include="Properties\App.config">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </None>
     </ItemGroup>
     <ItemGroup>
       <ProjectReference Include="..\ReportingService.Library\ReportingService.Library.csproj">

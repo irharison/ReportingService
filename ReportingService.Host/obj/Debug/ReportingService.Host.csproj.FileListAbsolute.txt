@@ -31,3 +31,5 @@ C:\Users\Ian\RiderProjects\ReportingService\ReportingService.Host\bin\Debug\Syst
 C:\Users\Ian\RiderProjects\ReportingService\ReportingService.Host\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\Ian\RiderProjects\ReportingService\ReportingService.Host\bin\Debug\System.Numerics.Vectors.xml
 C:\Users\Ian\RiderProjects\ReportingService\ReportingService.Host\bin\Debug\System.Buffers.xml
+C:\Users\Ian\RiderProjects\ReportingService\ReportingService.Host\bin\Debug\log4net.config
+C:\Users\Ian\RiderProjects\ReportingService\ReportingService.Host\bin\Debug\Properties\App.config
